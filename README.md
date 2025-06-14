@@ -19,7 +19,7 @@
 <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Thander11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 ```python
-class WhoAmI:
+class AboutMe:
   user = 'Thander'
   hobbies = [
         'Drawing',
