@@ -10,7 +10,7 @@
 - Creative
 - Good at teamwork
 - Open to learn new skills
-- This is [my resume]([https://drive.google.com/file/d/1CW8olzIv3LRZqsaqbR956U7Cx2Yb5iSB/view?usp=sharing](https://drive.google.com/file/d/1mGEwnXkRyDcLGlLg_h-Xa13T_ZSaLcFi/view?usp=drive_link))
+- This is [my resume](https://drive.google.com/file/d/1mGEwnXkRyDcLGlLg_h-Xa13T_ZSaLcFi/view?usp=drive_link)
 
 <br>
 
