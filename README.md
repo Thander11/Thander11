@@ -4,7 +4,7 @@
 
 <br>
 
-<picture> <img align="right" src="https://github.com/user-attachments/assets/bfacd468-8309-437c-90bf-8491d206882c" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/user-attachments/assets/d98ef8bb-f18e-402b-b9e2-88664fc7f55f" width = 250px> </picture>
 
 - Software engineer
 - Creative
